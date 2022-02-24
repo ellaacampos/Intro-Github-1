@@ -11,6 +11,3 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 ![hack](img/descarga.png)
 
 **SKILLS FOR WOMEN IN TECH 2022**
-
-### Insertaremos una imagen
-![hack](img/convocatoria_skills_for_women_in_tech.png)
